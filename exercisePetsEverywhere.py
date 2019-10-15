@@ -40,3 +40,5 @@ my_cats = [Simon('Simon', 2), Sally('Sally', 3), Garfield('Garfield', 6)]
 myPets = Pets(my_cats)
 #4 Output all of the cats walking using the my_pets instance
 myPets.walk()
+
+#%%
